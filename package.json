@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "type-check": "vue-tsc --build"
+  },
+  "devDependencies": {
+    "@tsconfig/bun": "^1.0.7",
+    "@tsconfig/strictest": "^2.0.5",
+    "@types/bun": "^1.2.3",
+    "@vue/tsconfig": "^0.7.0",
+    "vue-tsc": "^2.2.4"
+  }
+}
